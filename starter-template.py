@@ -8,7 +8,7 @@ class Pet:
 
     def eat(self):
         # TODO
-
+    
     def sleep(self):
         # TODO
 
